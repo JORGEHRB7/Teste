@@ -1,5 +1,5 @@
 Compras:
 
-1 - Arroz
-2 - Feijão
-3 - Carne
+1 - Arroz. OK
+2 - Feijão. OK
+3 - Carne. OK
