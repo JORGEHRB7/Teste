@@ -1,4 +1,7 @@
 Tarefas: 
 1 - Comprar lâmpada do banheiro.
-2- Dar banho no cachorro.
+2- Dar banho no cachorro. ok
 3 - Alugar terno.
+4 - Pagar conta do Banco.
+5 - Pagar á internet.
+6 - Pagar talão da água.
