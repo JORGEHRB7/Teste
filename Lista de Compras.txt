@@ -3,3 +3,6 @@ Compras:
 1 - Arroz. OK
 2 - Feijão. OK
 3 - Carne. OK
+4 - Bolacha.
+5 - Suco Fitness
+6 - Macarrão x2
